@@ -59,10 +59,10 @@ The project focuses on creating an intuitive interface, improving user interacti
 ## Screenshots
 
 ### Home Page
-![Home](assets/screenshots/ChatBot-inicio-eco.png)
+![Home Page](assets/screenshots/inicio-eco.png)
 
 ### Register
-![Home](assets/screenshots/ChatBot-login-eco.png)
+![Register](assets/screenshots/login-eco.png)
 
 ---
 
